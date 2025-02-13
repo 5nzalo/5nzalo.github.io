@@ -1,0 +1,5 @@
+# Configuración básica para al-folio
+title: 
+description: 
+url: https://5nzalo.github.io # Cambia esto a tu nombre de usuario de GitHub
+baseurl:   # Deja esto vacío, asegúrate de que haya un espacio después de "baseurl:"
